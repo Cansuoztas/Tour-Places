@@ -1,0 +1,24 @@
+nav{
+    background-color: rgb(6, 5, 19);
+    color: white;}
+
+ ul{
+ list-style-type: none;
+ display: flex;
+justify-content: center;
+ flex-wrap: wrap; }
+
+ li{
+ padding: 1.5rem;
+ font-size: 1.3rem;
+ font-weight: 600;
+height: 100%;}
+
+ li:hover{
+
+ background-color: rgb(198, 146, 233);
+ cursor: pointer;
+            }
+        
+
+   
